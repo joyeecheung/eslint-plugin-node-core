@@ -1,0 +1,14 @@
+{
+  "name": "@joyeecheung/eslint-plugin-node-core",
+  "version": "1.0.0",
+  "description": "Custom ESLint rules from Node.js core",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "Joyee Cheung <joyeec9h3@gmail.com>",
+  "license": "MIT"
+}
