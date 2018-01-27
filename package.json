@@ -10,5 +10,12 @@
     "eslint"
   ],
   "author": "Joyee Cheung <joyeec9h3@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "rules/"
+  ],
+  "devDependencies": {
+    "fs-extra": "^5.0.0"
+  }
 }
